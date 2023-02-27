@@ -1,0 +1,32 @@
+
+.App {
+  text-align: center;
+}
+.txt {
+  color: white;
+  font-size: 14px;
+}
+.lorem-1 {
+  padding: 2rem;
+  margin: 2rem;
+  z-index: 10;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
